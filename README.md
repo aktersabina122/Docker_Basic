@@ -28,8 +28,9 @@ This makes Docker applications easier and more lightweight to deploy and faster 
 Docker Hub is a service provided by Docker for finding and sharing container images with your team. Its like a github that holds all the images.
 
 # Here’s a List of Docker Commands
-docker run – Runs a command in a new container.
-•	docker start – Starts one or more stopped containers
++ docker run – Runs a command in a new container.
+
+docker start – Starts one or more stopped containers
 •	docker stop – Stops one or more running containers
 •	docker build – Builds an image form a Docker file
 •	docker pull – Pulls an image or a repository from a registry
