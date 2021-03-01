@@ -23,7 +23,7 @@ A Docker repository is where you can store 1 or more versions of a specific Dock
 # Docker Vs Virtual machine: 
 Docker is a software platform that simplifies the process of building, running, managing and distributing applications. It does this by virtualizing the operating system of the computer on which it is installed and running. Docker provides the ability to package and run an application 
 
-	Docker is an open platform for developing, shipping, and running applications.
+	Docker is an open platform for developing, shipping, and running applications.
 This makes Docker applications easier and more lightweight to deploy and faster to start up than virtual machines. Docker containers are generally faster and less resource-intensive than virtual machines.
 Docker Hub is a service provided by Docker for finding and sharing container images with your team. Its like a github that holds all the images.
 
